@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://readingandrouge.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Reading & Rouge"
+newContentEditor = "vim"
+canonifyurls = true
+theme = "nofancy"
